@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Anim Justice I
-- 👀 I’m interested Data Analytics 
-- 🌱 I’m currently improving on my various skills through projects with help of different tools
+- 👋 Hi, I’m Anim J.I
+- 👀 I’m interested in Data Analytics 
+- 🌱 I’m currently working on improving on my analytic skills and use of various tools to execute projects.
 - 💞️ I’m looking to collaborate with Data Analysts 
 - 📫 You can connect with we on Justynoanim
 
