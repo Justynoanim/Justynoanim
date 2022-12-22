@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anim J.I
 - 👀 I’m interested in Data Analytics 
-- 🌱 I’m currently working on improving on my analytic skills and use of various tools to execute projects.
+- 🌱 I’m currently working to improve my analytic skills and use of various tools to execute projects.
 - 💞️ I’m looking to collaborate with Data Analysts 
-- 📫 You can connect with we on Justynoanim
+- 📫 You can connect with we on...justiceikechukwuanim@gmail.com
 
 <!---
 Justynoanim/Justynoanim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
